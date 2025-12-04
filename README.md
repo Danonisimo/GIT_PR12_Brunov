@@ -29,3 +29,6 @@ C#
 ``const a = 1;
 const b = 2;
 alert(a + b);``
+
+:closed_book:
+
