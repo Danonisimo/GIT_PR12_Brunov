@@ -23,5 +23,5 @@ C# относится к семье языков с C-подобным синт�
 
 |NET|
 |----|----|
-|Реализации|NET (Core).NET FrameworkDotGNUMono.NET Compact Framework Xbox 360.NET Micro FrameworkPortable|
-|Архитектура|Base Class LibraryCommon Language Infrastructure.NET assemblyметаданныеCOM Interop|
+|Реализации|NET (Core)|
+|Архитектура|Base Class LibraryCommon |
